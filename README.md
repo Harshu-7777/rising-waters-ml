@@ -3,7 +3,7 @@
 A Machine Learning Approach to Flood Prediction
 
 ## Live Website
-[Open Rising Waters](YOUR_LIVE_WEBSITE_LINK)
+[Open Rising Waters](https://risingwater.lovable.app)
 
 ## Features
 - Flood risk prediction demonstration
